@@ -49,15 +49,18 @@ https://github.com/Lunars/tesla/wiki
 
 Information on MCU Firmware Dumping (2020)\
 https://github.com/lewurm/blog/issues
+
 ![eMMC pinout](./assets/emmc_pins_1.png)
 ![eMMC pinout](./assets/emmc_pins_2.png)
 
 0-Click RCE on Model 3 (2022)\
-https://www.synacktiv.com/sites/default/files/2022-10/tesla_hexacon.pdf\
+https://www.synacktiv.com/sites/default/files/2022-10/tesla_hexacon.pdf
+
 Loads of valuable information, Synacktiv rocks!
 ![block diagram](./assets/block_diagram.png)
 
 Security of Connected Vehicles (2023)\
-https://www.synacktiv.com/sites/default/files/2023-06/SecuriteDesVoitures.pdf\
+https://www.synacktiv.com/sites/default/files/2023-06/SecuriteDesVoitures.pdf
+
 Synacktiv rocks again, great information on managing the ethernet switch to remove all firewalls on the internal ethernet network.
 ![switch](./assets/switch.png)
