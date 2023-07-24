@@ -63,4 +63,5 @@ Security of Connected Vehicles (2023)\
 https://www.synacktiv.com/sites/default/files/2023-06/SecuriteDesVoitures.pdf
 
 Synacktiv rocks again, great information on managing the ethernet switch to remove all firewalls on the internal ethernet network.
+
 ![switch](./assets/switch.png)
